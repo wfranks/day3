@@ -1,0 +1,15 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "makes 2 pages with clickable links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wfranks"
+  },
+  "author": "",
+  "license": "ISC"
+}
